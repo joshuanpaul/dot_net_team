@@ -77,7 +77,7 @@ const Login = () => {
 			
 				<div class="form-container sign-in-container">
 					<form className='form-login' action="#">
-          <h1>Welcome to .NET team</h1>
+          <h1>Welcome to the team</h1>
           <br></br>
           <br></br>
 						{/* <h1>Sign in</h1> */}
